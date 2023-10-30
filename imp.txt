@@ -1,0 +1,3 @@
+how to get your headers
+
+https://httpbin.org/get 
